@@ -29,8 +29,8 @@
 #   datetimetype=
 #
 
-CREATE DATABASE IF NOT EXISTS `movedb`;
-USE `movedb`;
+CREATE DATABASE IF NOT EXISTS `clinica`;
+USE `clinica`;
 
 #
 # Table structure for table 'tbl_cita'
